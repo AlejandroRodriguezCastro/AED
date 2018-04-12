@@ -1,0 +1,3 @@
+Ingrese Primer Numero:
+Ingrese Segundo Numero:
+La suma es: 246
