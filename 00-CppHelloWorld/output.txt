@@ -1,5 +1,2 @@
-alejandro@Ale-PC-Ubuntu:~/Documents$ nano hello.cpp 
-alejandro@Ale-PC-Ubuntu:~/Documents$ g++ hello.cpp -o helloworld.out
-alejandro@Ale-PC-Ubuntu:~/Documents$ ./helloworld.out 
 Hello, World!
 
