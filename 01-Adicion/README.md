@@ -7,4 +7,4 @@
 ###Descripcion del programa: Suma de dos numeros ingresados por el usuario y muestro en pantalla
 
 **Etapa #1:**
-
+_Problema:_ Adición de dos números.
