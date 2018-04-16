@@ -10,3 +10,4 @@
 _Problema:_ Obtener del usuario dos número y mostrarle la suma.
 _Refinamiento del problema e Hipótesis de trabajo:_ Se utiliza variables enteras. Se agrega impresión en pantalla para facilitar al usuario el ingreso de los datos.
 _Modelo IPO:_
+![alt text](https://github.com/alejandrogrc/AED/blob/master/Imagenes/IPO/Adicion.png)
