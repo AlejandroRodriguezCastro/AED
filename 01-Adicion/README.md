@@ -21,7 +21,20 @@ _Modelo IPO:_
 
 _Lexico:_ a E Z, b E Z
 
-			a,b E Z
+		a,b E Z
+
+_Representación del Algoritmo:_
+
+    Representación visual: 
 
 
+        ![alt text](https://github.com/alejandrogrc/AED/blob/master/Imagenes/Flow-Chart/Adicion-FlowChart.png)
+
+
+    Representación textual: 
+        1) Pedir a
+        2) Leer a y guardar en a
+        3) Pedir b
+        4) Leer b y guardar en b
+        5) Mostrar a+b
 	
