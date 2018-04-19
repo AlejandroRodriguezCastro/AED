@@ -19,7 +19,7 @@ No tiene modelo IPO al no tener entradas.
 
 **Etapa #2 Diseño de la Solución:**
 
-_Lexico:_ entera E Z, booleana E B, caracter E , sinsigno E N, doble E R, cadena E 
+_Lexico:_ entera E Z, booleana E B, caracter E Σ, sinsigno E N, doble E R, cadena E Σ*
 
 
 _Representación del Algoritmo:_
