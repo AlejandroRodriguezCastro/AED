@@ -10,10 +10,10 @@
 
 int main()
 {
-	int numero1,numero2;
+	int a,b;
     std::cout << "Ingrese Primer Numero:\n";
-    std::cin >> numero1;
+    std::cin >> a;
     std::cout << "Ingrese Segundo Numero:\n";
-    std::cin >> numero2;
-    std::cout << "La suma es: " << numero1 + numero2 << "\n";
+    std::cin >> b;
+    std::cout << "La suma es: " << a + b << "\n";
 }
