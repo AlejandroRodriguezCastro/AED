@@ -28,7 +28,7 @@ _Representación del Algoritmo:_
     Representación visual: 
 
 
-        ![alt text](https://github.com/alejandrogrc/AED/blob/master/Imagenes/Flow-Chart/Adicion-FlowChart.png)
+![alt text](https://github.com/alejandrogrc/AED/blob/master/Imagenes/Flow-Chart/Adicion-FlowChart.png)
 
 
     Representación textual: 
