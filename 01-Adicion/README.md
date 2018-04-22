@@ -1,10 +1,10 @@
-###_OS: Ubuntu 16.04 LTS_
+### _OS: Ubuntu 16.04 LTS_
 
-##Compiler: gcc (Ubuntu 5.4.0-6ubuntu1~16.04.5) 5.4.0 20160609
+## Compiler: gcc (Ubuntu 5.4.0-6ubuntu1~16.04.5) 5.4.0 20160609
 
-##Text Editor: Sublime
+## Text Editor: Sublime
 
-##Descripcion del programa: Suma de dos numeros ingresados por el usuario y muestro en pantalla
+## Descripcion del programa: Suma de dos numeros ingresados por el usuario y citymuestro en pantalla
 
 **Etapa #1: Analisis del problema**
 
@@ -14,12 +14,12 @@ _Refinamiento del problema e Hipótesis de trabajo:_ Se utiliza variables entera
 
 _Modelo IPO:_
 
-![alt text](https://github.com/alejandrogrc/AED/blob/master/Imagenes/IPO/Adicion.png)
+![Modelo IPO  Adición](https://github.com/alejandrogrc/AED/blob/master/Imagenes/IPO/Adicion.png)
 
 
 **Etapa #2 Diseño de la Solución:**
 
-_Lexico:_ a E Z, b E Z
+_Lexico:_ 
 
 		a,b E Z
 
@@ -28,7 +28,7 @@ _Representación del Algoritmo:_
     Representación visual: 
 
 
-![alt text](https://github.com/alejandrogrc/AED/blob/master/Imagenes/Flow-Chart/Adicion-FlowChart.png)
+![Flow-chart Adición](https://github.com/alejandrogrc/AED/blob/master/Imagenes/Flow-Chart/Adicion-FlowChart.png)
 
 
     Representación textual: 
