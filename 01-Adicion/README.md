@@ -1,12 +1,12 @@
-### _OS: Ubuntu 16.04 LTS_
+#### _OS: Ubuntu 16.04 LTS_
 
-## Compiler: gcc (Ubuntu 5.4.0-6ubuntu1~16.04.5) 5.4.0 20160609
+#### Compiler: gcc (Ubuntu 5.4.0-6ubuntu1~16.04.5) 5.4.0 20160609
 
-## Text Editor: Sublime
+#### Text Editor: Sublime
 
-## Descripcion del programa: Suma de dos numeros ingresados por el usuario y citymuestro en pantalla
+#### Descripcion del programa: Suma de dos numeros ingresados por el usuario y citymuestro en pantalla
 
-**Etapa #1: Analisis del problema**
+## **Etapa #1: Analisis del problema**
 
 _Problema:_ Obtener del usuario dos número y mostrarle la suma.
 
@@ -17,7 +17,7 @@ _Modelo IPO:_
 ![Modelo IPO  Adición](https://github.com/alejandrogrc/AED/blob/master/Imagenes/IPO/Adicion.png)
 
 
-**Etapa #2 Diseño de la Solución:**
+## **Etapa #2 Diseño de la Solución:**
 
 _Lexico:_ 
 
